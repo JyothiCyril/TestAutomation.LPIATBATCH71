@@ -1,0 +1,16 @@
+{
+"SearchItems": [
+ {
+  "Category": "Books",
+  "ItemName": "Da vinci code"
+ },
+ {
+  "Category": "Electronics",
+  "ItemName": "Mobile phones"
+ },
+ {
+  "Category": "Appliances",
+  "ItemName": "Washing Machines"
+ }
+]
+}
